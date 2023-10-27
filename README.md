@@ -1,7 +1,10 @@
+# Chat with pdf AI 
+
+
 # Langchain
 
 ## Description
-[Add a brief description of your project here]
+[using pdf document user can upload pdf document and ask Q&A with pdf]
 
 ## Table of Contents
 - [Installation](#installation)
