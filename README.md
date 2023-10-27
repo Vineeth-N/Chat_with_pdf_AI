@@ -1,10 +1,8 @@
 # Chat with pdf AI 
 
 
-# Langchain
-
 ## Description
-[using pdf document user can upload pdf document and ask Q&A with pdf]
+using pdf document user can upload pdf document and ask Q&A with pdf
 
 ## Table of Contents
 - [Installation](#installation)
